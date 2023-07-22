@@ -80,6 +80,8 @@
 			dependencies = (
 			);
 			name = Calculator;
+			packageProductDependencies = (
+			);
 			productName = Calculator;
 			productReference = ADB1961D2146629E00C5317F /* Calculator.app */;
 			productType = "com.apple.product-type.application";
@@ -109,6 +111,8 @@
 				Base,
 			);
 			mainGroup = ADB196142146629E00C5317F;
+			packageReferences = (
+			);
 			productRefGroup = ADB1961E2146629E00C5317F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
